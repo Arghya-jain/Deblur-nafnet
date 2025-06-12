@@ -10,7 +10,7 @@ To set up the project, follow these steps:
 
 1. Clone the repository:
    ```sh
-   git clone https://github.ecodesamsung.com/suhasbs-22cse/Deblring.git
+   git clone https://github.com/Arghya-jain/Deblur-nafnet.git
    ```
 2. Navigate to the project directory:
    ```sh
